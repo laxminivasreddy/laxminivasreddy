@@ -188,22 +188,6 @@ A computer vision based attendance platform using face detection and recognition
 
 ---
 
-### 🎨 Blockchain Art Tokenization Platform
-
-> **Tokenization & Fractional Ownership of Real-World Art Assets**
-
-A blockchain-based platform for registering, tokenizing and trading real-world art assets.
-
-**Tech:** `Solidity` `Ethereum` `ERC-721` `ERC-1155` `OpenZeppelin` `NFT.Storage`
-
-**Features**
-- Asset registration
-- NFT creation
-- Fractional ownership
-- Marketplace
-- Provenance tracking
-- Royalty management
-
 ---
 
 # 🧩 AI Engineering Focus
