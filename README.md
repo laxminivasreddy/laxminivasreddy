@@ -84,7 +84,7 @@ Machine learning system for **groundwater-level prediction and geographical tren
 
 `Python` `TensorFlow` `LSTM` `Scikit-Learn` `Streamlit` `Pandas`
 
-# 🔗 [View Repository](https://github.com/laxminivasreddy/Hydro_Forecaster-Ground_Water_Level_Predictor)
+🔗 [View Repository](https://github.com/laxminivasreddy/Hydro_Forecaster-Ground_Water_Level_Predictor)
 
 ---
 
