@@ -75,6 +75,7 @@ AI-powered travel planning system using **Generative AI, RAG and multi-agent orc
 
 `Python` `FastAPI` `LangGraph` `CrewAI` `RAG` `FAISS` `LLMs`
 
+🔗 [View Repository](https://github.com/laxminivasreddy/Columbus-AI)
 ---
 
 ### 💧 Hydro Forecaster
@@ -83,6 +84,8 @@ Machine learning system for **groundwater-level prediction and geographical tren
 
 `Python` `TensorFlow` `LSTM` `Scikit-Learn` `Streamlit` `Pandas`
 
+🔗 [View Repository](https://github.com/laxminivasreddy/Hydro_Forecaster-Ground_Water_Level_Predictor)
+
 ---
 
 ### 👁️ Face Recognition Attendance System
@@ -90,6 +93,9 @@ Machine learning system for **groundwater-level prediction and geographical tren
 Automated attendance system using **computer vision and face recognition**, integrated with MySQL and an interactive dashboard.
 
 `Python` `OpenCV` `LBPH` `MySQL` `Streamlit`
+
+🔗 [View Repository](https://github.com/laxminivasreddy/Attendence-monitoring-system)
+
 
 ---
 
