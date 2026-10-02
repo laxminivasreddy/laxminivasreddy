@@ -1,288 +1,146 @@
-# 👋 Hey, I'm Laxminivas Reddy
+# 👋 Hi, I'm Laxminivas Reddy
 
-### `AI/ML Engineer` · `Generative AI Developer` · `Python Developer`
+### AI/ML Engineer · Generative AI · LLMs · RAG · Agentic AI
 
 <p align="left">
-  <a href="https://github.com/laxminivasreddy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/laxminivasreddy-uppula/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=laxminivasreddy&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-> **Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning, passionate about building intelligent systems with Machine Learning, Generative AI, LLMs, RAG and Agentic AI.**
-
-I enjoy turning ideas into **practical AI-powered applications** — from predictive ML systems and data pipelines to LLM applications, RAG systems, AI agents and intelligent automation.
+> **Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning.**  
+> I build intelligent applications using Machine Learning, Generative AI, LLMs, RAG and Agentic AI.
 
 ---
 
 ## 🧠 About Me
 
-```python
-class LaxminivasReddy:
-
-    role = "AI/ML Engineer"
-    education = "B.Tech CSE — Artificial Intelligence & Machine Learning"
-
-    interests = [
-        "Machine Learning",
-        "Generative AI",
-        "LLMs",
-        "RAG",
-        "Agentic AI",
-        "AI Agents",
-        "Data Science",
-        "Backend Development"
-    ]
-
-    currently_exploring = [
-        "LLM Applications",
-        "Agentic AI",
-        "Multi-Agent Systems",
-        "RAG Architectures",
-        "AI Engineering"
-    ]
-
-    mindset = "Build → Learn → Experiment → Improve"
-```
+- 🎓 CSE — Artificial Intelligence & Machine Learning
+- 🤖 Focused on **AI/ML, Generative AI & LLM Applications**
+- 🔎 Interested in **RAG, AI Agents & Multi-Agent Systems**
+- 🐍 Strong with **Python, SQL & Machine Learning**
+- ⚙️ Building AI applications, APIs and data-driven systems
+- 🚀 Always experimenting with new AI technologies
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 🤖 Artificial Intelligence & Machine Learning
+**Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge"/>
-</p>
+`Python` `C++` `SQL`
 
-### 🧩 LLM & AI Engineering
+**AI / ML**
 
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6E40C9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Function%20Calling-333333?style=for-the-badge"/>
-</p>
+`Machine Learning` `Deep Learning` `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy`
 
-### 🐍 Programming & Backend
+**Generative AI**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+`LLMs` `RAG` `Prompt Engineering` `Embeddings` `Semantic Search` `AI Agents` `Multi-Agent Systems`
 
-### 📊 Data & Machine Learning
+**Frameworks & Tools**
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
+`LangChain` `LangGraph` `CrewAI` `FastAPI` `Flask` `Streamlit`
 
-### 🗄️ Databases & Vector Stores
+**Databases**
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-</p>
+`MySQL` `PostgreSQL` `FAISS` `ChromaDB`
 
-### 🛠️ Tools & Platforms
+**Other**
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+`Git` `GitHub` `Power BI` `Azure` `Jupyter`
 
 ---
 
-# 🎯 Domains I Work In
+## 🚀 Featured Projects
 
-| Domain | What I Work With |
-|---|---|
-| 🤖 **Machine Learning** | Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering |
-| 🧠 **Deep Learning** | Neural Networks, LSTM, TensorFlow, Keras |
-| ✨ **Generative AI** | LLM Applications, Prompt Engineering, AI Workflows |
-| 🔎 **RAG** | Embeddings, Semantic Search, Vector Databases, Retrieval Pipelines |
-| 🤝 **Agentic AI** | AI Agents, Tool Calling, Multi-Agent Systems, LangGraph, CrewAI |
-| 📊 **Data Science** | Data Analysis, Feature Engineering, Visualization, Model Evaluation |
-| ⚙️ **Backend Engineering** | Python, FastAPI, Flask, REST APIs |
-| 🗃️ **Data Engineering** | SQL, Data Processing, Data Pipelines, Data Quality |
-| 📈 **Business Intelligence** | Power BI, DAX, Interactive Dashboards |
+### 🧠 Trust-Aware Memory Intelligence System
+
+Multi-agent AI system designed to **verify, manage and reason over long-term memories**.
+
+`Python` `LangGraph` `LLMs` `RAG` `Embeddings` `Multi-Agent AI`
+
+**Highlights:** Claim verification · Contradiction detection · Memory retrieval · Memory curation · Trust-aware reasoning
 
 ---
 
-# 🚀 Featured Projects
+### 🌍 Columbus AI — AI Travel Planner
 
-### 🌍 Columbus AI — AI-Powered Travel Planning
+AI-powered travel planning system using **Generative AI, RAG and multi-agent orchestration** to create intelligent and personalized travel experiences.
 
-> **Multi-Agent + Generative AI Travel Planning System**
-
-An intelligent travel planning platform designed to generate personalized travel itineraries using **Generative AI, multi-agent orchestration and RAG**.
-
-**Tech:** `Python` `FastAPI` `LangGraph` `CrewAI` `RAG` `FAISS` `LLMs`
-
-**Key Concepts**
-- Multi-agent orchestration
-- Personalized itinerary generation
-- Retrieval-Augmented Generation
-- Semantic search
-- Intelligent travel recommendations
-- AI-powered decision making
+`Python` `FastAPI` `LangGraph` `CrewAI` `RAG` `FAISS` `LLMs`
 
 ---
 
 ### 💧 Hydro Forecaster
 
-> **Groundwater Level Predictor & GeoTrend Analyzer**
+Machine learning system for **groundwater-level prediction and geographical trend analysis** using time-series forecasting and predictive models.
 
-A machine learning system developed during my ML internship to analyze and forecast groundwater levels across geographical regions.
-
-**Tech:** `Python` `TensorFlow` `LSTM` `Scikit-Learn` `Streamlit` `Pandas` `Plotly`
-
-**Key Features**
-- Groundwater level forecasting
-- LSTM time-series modeling
-- Regression-based prediction
-- Geographical trend analysis
-- Interactive Streamlit dashboard
-- Model evaluation using RMSE, MAE & R²
+`Python` `TensorFlow` `LSTM` `Scikit-Learn` `Streamlit` `Pandas`
 
 ---
 
 ### 👁️ Face Recognition Attendance System
 
-> **Automated Attendance Management System**
+Automated attendance system using **computer vision and face recognition**, integrated with MySQL and an interactive dashboard.
 
-A computer vision based attendance platform using face detection and recognition.
-
-**Tech:** `Python` `OpenCV` `LBPH` `MySQL` `Streamlit`
-
-**Features**
-- Face detection
-- Face recognition
-- Automated attendance
-- MySQL database integration
-- Interactive dashboard
+`Python` `OpenCV` `LBPH` `MySQL` `Streamlit`
 
 ---
 
----
-
-# 🧩 AI Engineering Focus
+## 🎯 Areas of Interest
 
 ```text
-                ┌──────────────────────────┐
-                │       AI APPLICATIONS    │
-                └────────────┬─────────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-        Generative AI                  Machine Learning
-              │                             │
-        ┌─────┴─────┐                 ┌─────┴─────┐
-        │           │                 │           │
-       LLMs        RAG              Models      Forecasting
-        │           │                 │           │
-        └─────┬─────┘                 └─────┬─────┘
-              │                             │
-        ┌─────┴─────────────────────────────┴─────┐
-        │              AI ENGINEERING              │
-        ├─────────────────────────────────────────┤
-        │  Agents • Tools • APIs • Vector DBs     │
-        │  Embeddings • Semantic Search           │
-        │  LangGraph • LangChain • CrewAI         │
-        └─────────────────────────────────────────┘
+Artificial Intelligence
+Machine Learning
+Generative AI
+Large Language Models
+Retrieval-Augmented Generation
+Agentic AI
+Multi-Agent Systems
+AI Engineering
+Data Science
+Backend Development
 ```
 
 ---
 
-# 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxminivasreddy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxminivasreddy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laxminivasreddy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laxminivasreddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxminivasreddy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-# 🏆 What I Like Building
+## 🌱 Currently Exploring
 
-```text
-✓ AI-powered applications
-✓ LLM & RAG systems
-✓ Autonomous AI agents
-✓ Multi-agent workflows
-✓ Machine learning pipelines
-✓ Predictive analytics systems
-✓ Data-driven dashboards
-✓ Intelligent automation
-✓ REST APIs & backend systems
-```
+**Advanced RAG · Agentic AI · Multi-Agent Architectures · LLM Applications · AI Engineering**
 
 ---
 
-# 🌱 Currently Learning
+## 🤝 Let's Connect
 
-- Advanced **RAG architectures**
-- **Agentic AI** and autonomous workflows
-- Multi-agent orchestration
-- LLM evaluation & optimization
-- Production-ready AI systems
-- AI application deployment
-- Cloud-based ML/AI solutions
+I'm open to opportunities and collaborations in:
 
----
+**AI/ML · Generative AI · LLMs · RAG · AI Agents · Python · Data Science**
 
-# 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-
-**AI/ML Engineering · Generative AI · LLM Applications · RAG · AI Agents · Data Science · Python Development**
-
-<p align="center">
-
-<a href="https://github.com/laxminivasreddy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/laxminivasreddy-uppula/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<p align="left">
+  <a href="https://github.com/laxminivasreddy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Building intelligent systems, one experiment at a time.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <i>Building intelligent systems with data, models and AI.</i>
 </p>
