@@ -66,6 +66,7 @@ Multi-agent AI system designed to **verify, manage and reason over long-term mem
 
 **Highlights:** Claim verification · Contradiction detection · Memory retrieval · Memory curation · Trust-aware reasoning
 
+🔗 [View Repository](https://github.com/laxminivasreddy/trust-aware-memory-intelligence-system)
 ---
 
 ### 🌍 Columbus AI — AI Travel Planner
