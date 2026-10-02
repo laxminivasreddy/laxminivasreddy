@@ -6,7 +6,7 @@
   <a href="https://github.com/laxminivasreddy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/laxminivasreddy-uppula/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=laxminivasreddy&style=for-the-badge&color=blueviolet"/>
@@ -287,7 +287,7 @@ I'm interested in opportunities involving:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/laxminivasreddy-uppula/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
